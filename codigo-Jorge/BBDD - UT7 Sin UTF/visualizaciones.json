@@ -1,0 +1,41 @@
+[
+{
+"_id": 1001,
+"usuario_id": 1,
+"perfil": "Ana",
+"fecha": "2026-03-20",
+"pelicula": {
+"id": 101,
+"titulo": "Origen",
+"duracion_min": 148
+},
+"progreso": 100,
+"valoracion": 9
+},
+{
+"_id": 1002,
+"usuario_id": 1,
+"perfil": "Niños",
+"fecha": "2026-03-21",
+"pelicula": {
+"id": 103,
+"titulo": "Toy Story",
+"duracion_min": 81
+},
+"progreso": 100,
+"valoracion": 8
+},
+{
+"_id": 1003,
+"usuario_id": 2,
+"perfil": "Luis",
+"fecha": "2026-03-22",
+"pelicula": {
+"id": 102,
+"titulo": "El Padrino",
+"duracion_min": 175
+},
+"progreso": 60,
+"valoracion": null
+}
+]

@@ -1,0 +1,26 @@
+[
+{
+"_id": 101,
+"titulo": "Origen",
+"genero": ["Ciencia ficción", "Acción"],
+"duracion_min": 148,
+"año": 2010,
+"valoracion_media": 8.8
+},
+{
+"_id": 102,
+"titulo": "El Padrino",
+"genero": ["Drama", "Crimen"],
+"duracion_min": 175,
+"año": 1972,
+"valoracion_media": 9.2
+},
+{
+"_id": 103,
+"titulo": "Toy Story",
+"genero": ["Animación", "Comedia"],
+"duracion_min": 81,
+"año": 1995,
+"valoracion_media": 8.3
+}
+]

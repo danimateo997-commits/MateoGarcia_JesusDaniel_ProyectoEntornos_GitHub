@@ -1,0 +1,23 @@
+[
+{
+"_id": 1,
+"nombre": "Ana García",
+"email": "ana@email.com",
+"plan": "premium",
+"fecha_registro": "2025-11-10",
+"perfiles": [
+{"nombre": "Ana", "edad": 30},
+{"nombre": "Niños", "edad": 8}
+]
+},
+{
+"_id": 2,
+"nombre": "Luis Pérez",
+"email": "luis@email.com",
+"plan": "basico",
+"fecha_registro": "2026-01-05",
+"perfiles": [
+{"nombre": "Luis", "edad": 35}
+]
+}
+]
